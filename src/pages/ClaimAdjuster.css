@@ -1,0 +1,20 @@
+.h2{
+    text-align: center; 
+    color: maroon;
+    /* background-color: rgb(192, 197, 197); */
+height: 30px;
+width: 30px;
+}
+.iframe{
+    border: none;
+    height:"550px";
+     width:"100%" ; 
+}
+.li a:hover {
+    background-color: hsl(0, 60%, 50%);;
+    color: white;
+}
+.nav-link{
+    color: hsl(0, 60%, 50%);
+    font-weight: bold;
+}
